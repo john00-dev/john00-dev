@@ -57,29 +57,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MSOR03&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
 </p>
 
-<p align="center">
 
-![Gráfico](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSOR03&layout=compact&theme=tokyonight&align=center)
-
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSOR03&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
-</p>
-
----
-
-### Repositorios Populares 📊
-
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=MSOR03&repo=Red-Bacata&theme=tokyonight&align=center)](https://github.com/MSOR03/Red-Bacata)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=MSOR03&repo=Portfolio&theme=tokyonight)](https://github.com/MSOR03/Portfolio)
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=MSOR03&repo=MyChazapp&theme=tokyonight)](https://github.com/MSOR03/MyChazapp)
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MSOR03&theme=tokyonight" alt="Repos por Lenguaje" />
-
-</div>
-
----
 
 ### Mis Pasatiempos e Intereses 🎨
 
@@ -107,13 +85,6 @@
 
 ---
 
-# Mi Calendario de Contribuciones en 3D
-
-Aquí está mi calendario de contribuciones en 3D en GitHub:
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
----
 
 ### Frase Motivacional
 
